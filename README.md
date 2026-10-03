@@ -1,6 +1,14 @@
 # Checkpoint 02 — Machine Learning com dados de energia
 
-**João Vitor Jun Nishiye de Sousa — RM 572079**
+## Integrantes
+
+| Nome | RM |
+|---|---:|
+| Davi | 569487 |
+| Gabriel | 568910 |
+| Aragão | 570529 |
+| André | 571691 |
+| Jun | 572079 |
 
 [Abrir o notebook no Google Colab](https://colab.research.google.com/github/junnishiye/SERS_2semestre_checkpoint_2/blob/main/checkpoint2_energia_renovavel.ipynb) · [Ver notebook no GitHub](checkpoint2_energia_renovavel.ipynb)
 
